@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "name": "MATOR RUSSIA",
+    "ip": "80.242.59.112",
+    "port": 5309,
+    "online": 0,
+    "maxplayers": 100,
+    "client_url": "https://example.com"
+  }
+]
